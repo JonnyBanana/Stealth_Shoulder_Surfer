@@ -13,9 +13,13 @@ It does not open any terminals and acts completely stealthily (both .pyw and exe
 The program saves the pictures captured by the webcam in the user profile folder (%userprofile%). 
 To avoid overwriting existing images, each new image is saved with an incremental name. 
 The path and name of the images can be easily set in the code.
+I purposely avoided the use of code checks, to avoid the output of error prompts, 
+this is to avoid creating suspicion in case the program, for some reason, fails.
 
 </BR>
 
 <h2>How, and Why, To Use It in a Real Scenario</h2>
 
 </BR>
+
+
