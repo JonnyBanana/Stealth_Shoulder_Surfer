@@ -19,7 +19,7 @@ this is to avoid creating suspicion in case the program, for some reason, fails.
 
 </BR>
 
-Tested on: <b>Windows 10 Home</b> </BR>
+Tested on: <b>Win10 Home</b> </BR>
 Ver: <b>22H2</b> </BR>
 Build: <b>19045.4651</b>
 
