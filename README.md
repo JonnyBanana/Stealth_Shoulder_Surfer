@@ -11,7 +11,7 @@
 The script  takes pictures from a Laptop's Webcam in stealth mode, without opening terminals or images.</BR>
 It does not open any terminals and acts completely stealthily (both .pyw and exe files), making it ideal </BR>
 for <a href="https://en.wikipedia.org/wiki/Shoulder_surfing_(computer_security)">Shoulder Surfing</a> sessions.
-The program saves the pictures captured by the webcam in the user profile folder (%userprofile%). </BR>
+The program saves the pictures captured by the webcam in the user profile folder. </BR>
 To avoid overwriting existing images, each new image is saved with an incremental name. </BR>
 The path and name of the images can be easily set in the code.</BR>
 I purposely avoided the use of code checks, to avoid the output of error prompts, </BR>
