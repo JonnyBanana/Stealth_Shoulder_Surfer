@@ -29,4 +29,19 @@ Build: <b>19045.4651</b>
 
 </BR>
 
+Nowadays everyone has a smartphone in their pocket, and thus the ability to take pictures in very few seconds, so why the need to create a laptop script?</BR>
+Well first of all because anyway, in some cases, the gesture of taking a picture via smartphone can create suspicion, </BR>
+and then there are some cases where doing things from laptop from a certain concealability.</BR>
+Imagine a high-security place, such as an airport, or at a classic coffee shop with free wifi conection, where people often bring their laptops with them.</BR>
+Wouldn't it be nice to have the ability to do this from a computer, and without arousing any suspicion?
+
+</BR>
+
+
+
+
+</BR>
+
+
+<h2>Requirements</h2>
 
