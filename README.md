@@ -1,2 +1,18 @@
-# Stealth_Shoulder_Surfer
-Small Python Script for Shoulder Surfing Sessions, which takes pictures from a Laptop's Webcam in stealth mode, without opening terminals or images. Images are saved in Windows %userprofile% folder, path and image names can be easily set as desired.
+  _________ __                .__   __  .__               
+ /   _____//  |_  ____ _____  |  |_/  |_|  |__            
+ \_____  \\   __\/ __ \\__  \ |  |\   __\  |  \           
+ /        \|  | \  ___/ / __ \|  |_|  | |   Y  \          
+/_______  /|__|  \___  >____  /____/__| |___|  /          
+        \/           \/     \/               \/           
+  _________.__                 .__       .___             
+ /   _____/|  |__   ____  __ __|  |    __| _/___________  
+ \_____  \ |  |  \ /  _ \|  |  \  |   / __ |/ __ \_  __ \ 
+ /        \|   Y  (  <_> )  |  /  |__/ /_/ \  ___/|  | \/ 
+/_______  /|___|  /\____/|____/|____/\____ |\___  >__|    
+        \/      \/                        \/    \/        
+  _________              _____                            
+ /   _____/__ __________/ ____\___________                
+ \_____  \|  |  \_  __ \   __\/ __ \_  __ \               
+ /        \  |  /|  | \/|  | \  ___/|  | \/               
+/_______  /____/ |__|   |__|  \___  >__|                  
+        \/                        \/     
