@@ -47,3 +47,8 @@ Wouldn't it be nice to have the ability to do this from a computer, and without 
 
 <h2>Requirements</h2>
 
+* Python3
+* opencv-python
+
+
+
