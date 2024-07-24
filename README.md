@@ -19,6 +19,10 @@ this is to avoid creating suspicion in case the program, for some reason, fails.
 
 </BR>
 
+Tested on: <b>Windows 10 Home</b> - <b>Ver:22H2</b> - <b>Build: 19045.4651</b>
+
+</BR>
+
 <h2>How, and Why, To Use It in a Real Scenario</h2>
 
 </BR>
