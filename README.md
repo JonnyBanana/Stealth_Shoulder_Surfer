@@ -2,4 +2,6 @@
 
 </BR>
 
-<h1>Stealth Shoulder Surfer</h1>
+<h2>How it Works</h2>
+
+</BR>
