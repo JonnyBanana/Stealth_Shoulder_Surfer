@@ -45,8 +45,8 @@ keep in mind that the program generally takes 2/5 seconds before taking the pict
 
 </BR>
 
-![Alt text](https://raw.githubusercontent.com/JonnyBanana/Stealth_Shoulder_Surfer/main/img/no_data_here.jpg)
-<i>Example of a photo shot taken with the program (really bad webcam quality)</i>
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/Stealth_Shoulder_Surfer/main/img/no_data_here.jpg) </br>
+<i style="font.size:3px">Example of a photo shot taken with the program (really bad webcam quality)</i>
 
 
 </BR>
