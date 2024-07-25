@@ -100,17 +100,17 @@ If you want to compile the script yourself, it is possible to do so with the lib
 
 <h5>Commands to compile the exe:</h5></BR>
 
-Move to the Shadow_Shoulder_Surfer folder</BR> 
+Move to the Stealth_Shoulder_Surfer folder</BR> 
 
-```cd path/of/Shadow_Shoulder_Surfer```</BR> 
+```cd path/of/Stealth_Shoulder_Surfer```</BR> 
 
 Then compile the .pyw file with this command:</BR> 
 
-```pyinstaller --onefile --noconsole Shadow_Shoulder_Surfer.pyw```</BR> 
+```pyinstaller --onefile --noconsole Stealth_Shoulder_Surfer.pyw```</BR> 
 
 Or if you want to fill in with custom icon:</BR> 
 
-```pyinstaller --onefile --noconsole --icon=icon.ico Shadow_Shoulder_Surfer.pyw```
+```pyinstaller --onefile --noconsole --icon=icon.ico Stealth_Shoulder_Surfer.pyw```
 
 
 </BR> 
