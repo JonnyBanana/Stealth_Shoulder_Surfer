@@ -123,9 +123,9 @@ Or if you want to fill in with custom icon:</BR>
 
 The last thing to do to be truly invisible is to turn off the webcam's LED, which lights up every time it clicks. </BR> 
 Unfortunately, doing this via software is complex, this is because you have to modify one or more registry keys</BR> 
-(not known) that change depending on the brand and model of the webcam. I attempted to write a script that would at </BR> 
-least search the registry for suitable keys to make the job easier, but it was impossible for me to terminate such a program.</BR> 
-I therefore opted for the “easy way,” but if anyone would like to try their hand at it, </BR> 
+(not known) that change depending on the brand and model of the webcam. I attempted to write a script that </BR> 
+would at least search the registry for suitable keys to make the job easier, but it was impossible for me </BR> 
+to terminate such a program. I therefore opted for the “easy way,” but if anyone would like to try their hand at it, </BR> 
 some known paths to the drivers and webcam services are:
 
 </BR> 
