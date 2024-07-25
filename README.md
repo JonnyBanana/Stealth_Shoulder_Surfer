@@ -187,8 +187,8 @@ The video is saved in .avi format, to get the videos in the best possible qualit
 I did not compile an exe because it is more convenient the .pyw file to set the duration of the video (it would </BR>
 not have been possible to have the user set the duration, as it requires a gui and would make it less stealthy).
 </BR>
-Important note, when shooting video the webcam led stays on steady and it is therefore essential to disable the led, </BR>
-as explained in the “Add More Stealth” section.
+Important note, when shooting video the webcam led stays on steady and it is therefore essential to disable </BR>
+the led, as explained in the “Add More Stealth” section.
 
 </BR>
 
