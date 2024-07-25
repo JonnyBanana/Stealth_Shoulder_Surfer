@@ -181,11 +181,11 @@ Happy Shoulder Surfing to All!
 
 </BR>
 
-In this version I slightly modified the code to shoot video instead of taking pictures from the webcam. The video is saved </BR>
-in .avi format, to get the videos in the best possible quality. By default it is set to shoot 30-second videos, but it is </BR>
-easily set as needed. It uses the same libs as v1, so no further installation is needed, I did not compile an exe because </BR>
-it is more convenient the .pyw file to set the duration of the video ( it would not have been possible to have the user </BR>
-set the duration, as it requires a gui and would make it less stealthy.
+In this version I slightly modified the code to shoot video instead of taking pictures from the webcam. </BR>
+The video is saved in .avi format, to get the videos in the best possible quality. By default it is set to shoot </BR>
+30-second videos, but it is easily set as needed. It uses the same libs as v1, so no further installation is needed, </BR>
+I did not compile an exe because it is more convenient the .pyw file to set the duration of the video (it would not </BR>
+have been possible to have the user set the duration, as it requires a gui and would make it less stealthy).
 
 </BR>
 
