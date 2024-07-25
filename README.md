@@ -86,7 +86,9 @@ https://github.com/JonnyBanana/Stealth_Shoulder_Surfer/releases/tag/shoulder_sur
 
 </BR> 
 
-If you want to compile the script yourself, it is possible to do so with the library “pyinstaller”</BR>
+If you want to compile the script yourself, it is possible to do so with the library “pyinstaller”
+
+</BR>
 
 <h5>To install the library:</h5>
 
