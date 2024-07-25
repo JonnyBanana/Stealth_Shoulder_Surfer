@@ -25,7 +25,7 @@ def record_video_and_save():
     out = cv2.VideoWriter(video_path, fourcc, 20.0, (640, 480))
 
     start_time = time.time()
-    duration = 30  # seconds
+    duration = 30  # duration time in seconds
 
     while True:
         ret, frame = cap.read()
