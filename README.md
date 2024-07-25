@@ -39,10 +39,14 @@ Wouldn't it be nice to have the ability to do this from a computer, and without 
 
 </BR>
 
+As everyone knows usually laptops have the camera on the front (apart from some models with rotating camera, </BR>
+such as some models of Acer Spin Series and Lenovo Yoga Series), so when you shoot you need to move out of the camera frame,</BR>
+keep in mind that the program generally takes 2/5 seconds before taking the picture, which gives plenty of time to move.
 
-
+</BR>
 
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/Stealth_Shoulder_Surfer/main/img/no_data_here.jpg)
+<i>Example of a photo shot taken with the program (really bad webcam quality)</i>
 
 
 </BR>
