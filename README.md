@@ -76,10 +76,18 @@ Tested on: <b>Python 3.12</b>
 
 </BR> 
 
-If you don't want python on your computer you can download the exe file from here:</BR> 
-
+The exe can be downloaded from here:</BR> 
 
 https://github.com/JonnyBanana/Stealth_Shoulder_Surfer/releases/tag/shoulder_surfing
+
+</BR> 
+
+<h2>How to compile the script</h2>
+
+</BR> 
+
+
+
 
 </BR> 
 
