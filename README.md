@@ -59,11 +59,14 @@ keep in mind that the program generally takes 2/5 seconds before taking the pict
 
 </BR>  
 
+To install the library:</BR> 
+
+
 ```pip install opencv-python```
 
 
+</BR> 
 
 
+<h2>Release</h2>
 
-
-</BR>
