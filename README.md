@@ -59,7 +59,7 @@ keep in mind that the program generally takes 2/5 seconds before taking the pict
 
 </BR>  
 
-pip install opencv-python
+```pip install opencv-python```
 
 
 
