@@ -144,7 +144,7 @@ Path: <b>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAsso
 
 </BR>
 
-You can also manually search for keys such as “LED”  , “WEBCAM” or “CAMERA,” in the registry search function.
+You can also manually search for keys such as <b>“LED”</b>  , <b>“WEBCAM”</b> or <b>“CAMERA”</b> in the registry search function.
 
 </BR>
 
@@ -160,7 +160,14 @@ In any case, the best solutions are the simplest:
 
 </BR>
 
+Finally, if you want to change the script icon, without compiling the file, simply create a link</BR>
+to the .pyw script and then change the icon from the “properties” option within the link icon menu.
 
+</BR>
+
+Happy Shoulder Surfing to All!
+
+</BR>
 
 
 
