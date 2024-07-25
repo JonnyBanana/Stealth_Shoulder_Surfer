@@ -108,7 +108,7 @@ Then compile the .pyw file with this command:</BR>
 
 ```pyinstaller --onefile --noconsole Shadow_Shoulder_Surfer.pyw```</BR> 
 
-If you want to fill in with custom icon:</BR> 
+Or if you want to fill in with custom icon:</BR> 
 
 ```pyinstaller --onefile --noconsole --icon=icon.ico Shadow_Shoulder_Surfer.pyw```
 
@@ -128,6 +128,40 @@ I therefore opted for the “easy way,” but if anyone would like to try their 
 some known paths to the drivers and webcam services are:
 
 </BR> 
+
+Key for Device Drivers: </BR> 
+Path: <b>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class</b>
+
+</BR> 
+
+Key for Services: </BR> 
+Path: <b>HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services</b>
+
+</BR> 
+
+Webcam Settings Key:</BR>
+Path: <b>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DeviceAssociation\Devices</b>
+
+</BR>
+
+You can also manually search for keys such as “LED”  , “WEBCAM” or “CAMERA,” in the registry search function.
+
+</BR>
+
+In any case, the best solutions are the simplest:
+
+
+</BR>
+
+* Stickers</BR>
+* Paint or Acrylic marker (such as Uni Posca) </BR>
+* Disabling the Led at the Hardware level (desoldering, burning, or breaking) </BR>
+* A WebCam Cover (opened) </BR>
+
+</BR>
+
+
+
 
 
 
