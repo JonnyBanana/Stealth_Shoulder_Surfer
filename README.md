@@ -67,6 +67,19 @@ To install the library:</BR>
 
 </BR> 
 
+Tested on: <b>Python 3.12</b>
+
+</BR> 
+
 
 <h2>Release</h2>
+
+</BR> 
+
+If you don't want python on your computer you can download the exe file from here:</BR> 
+
+
+https://github.com/JonnyBanana/Stealth_Shoulder_Surfer/releases/tag/shoulder_surfing
+
+</BR> 
 
