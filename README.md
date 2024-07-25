@@ -57,5 +57,13 @@ keep in mind that the program generally takes 2/5 seconds before taking the pict
 * Python3
 * opencv-python
 
+</BR>  
+
+pip install opencv-python
 
 
+
+
+
+
+</BR>
