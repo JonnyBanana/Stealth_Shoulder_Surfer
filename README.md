@@ -186,9 +186,7 @@ The video is saved in .avi format, to get the videos in the best possible qualit
 30-second videos, but it is easily set as needed. It uses the same libs as v1, so no further installation is needed, </BR>
 I did not compile an exe because it is more convenient the .pyw file to set the duration of the video (it would </BR>
 not have been possible to have the user set the duration, as it requires a gui and would make it less stealthy).
-
 </BR>
-
 Important note, when shooting video the webcam led stays on steady and it is therefore essential to disable the led, </BR>
 as explained in the “Add More Stealth” section.
 
