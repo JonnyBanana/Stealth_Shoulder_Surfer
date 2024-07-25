@@ -104,19 +104,30 @@ Move to the Shadow_Shoulder_Surfer folder</BR>
 
 ```cd path/of/Shadow_Shoulder_Surfer```</BR> 
 
-Then compile the .pyw file with this command</BR> 
+Then compile the .pyw file with this command:</BR> 
 
-```pyinstaller --onefile --noconsole Shadow_Shoulder_Surfer.pyw```
+```pyinstaller --onefile --noconsole Shadow_Shoulder_Surfer.pyw```</BR> 
+
+If you want to fill in with custom icon:</BR> 
+
+```pyinstaller --onefile --noconsole --icon=icon.ico Shadow_Shoulder_Surfer.pyw```
 
 
 </BR> 
 
 
-
-
-
-
-
-
 <h2>Add More Stealth</h2>
+
+</BR> 
+
+The last thing to do to be truly invisible is to turn off the webcam's LED, which lights up every time it clicks. </BR> 
+Unfortunately, doing this via software is complex, this is because you have to modify one or more registry keys (not known) </BR> 
+that change depending on the brand and model of the webcam. I attempted to write a script that would at least search </BR> 
+the registry for suitable keys to make the job easier, but it was impossible for me to terminate such a program.</BR> 
+I therefore opted for the “easy way,” but if anyone would like to try their hand at it, </BR> 
+some known paths to the drivers and webcam services are:
+
+</BR> 
+
+
 
