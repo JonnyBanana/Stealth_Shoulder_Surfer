@@ -197,4 +197,11 @@ the led, as explained in the “Add More Stealth” section.
 
 </BR>
 
+Finally, I thought a version that takes multiple photos (multishot) would be useful, so I further modified the code. </BR>
+In this version, 10 photos are taken with a delay of 1 sec between each shot. To change the settings for the number </BR>
+of shots and the delay, simply modify the last function (for i in range(10)). Disabling the led is also essential </BR>
+for this version, as the led blinks with every shot, making the session very suspicious....
+
+
+</BR>
 
