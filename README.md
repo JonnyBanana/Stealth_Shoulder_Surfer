@@ -50,9 +50,9 @@ Wouldn't it be nice to have the ability to do this from a computer, and without 
 
 As everyone knows usually laptops have the camera on the front (apart from some models with rotating camera, </BR>
 such as some models of Acer Spin Series and Lenovo Yoga Series), so when you shoot you need to move out of the</BR>
-camera frame, otherwise instead of photographing any data, you will be photographing yourself, at least in most of the shots.</BR>
-Any excuse, such as bending down to pick up an alleged object dropped on the ground, will more than suffice for the purpose.</BR>
-keep in mind that the program generally takes 2/5 seconds before taking the picture, which gives plenty of time to move.
+camera frame, otherwise instead of photographing any data, you will be photographing yourself, at least in most of the</BR>
+shots. Any excuse, such as bending down to pick up an alleged object dropped on the ground, will more than suffice for</BR>
+the purpose. Keep in mind that the program generally takes 2/5 seconds before taking the picture, which gives plenty of time to move.
 
 </BR>
 
