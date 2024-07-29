@@ -13,8 +13,8 @@ It does not open any terminals and acts completely stealthily (both .pyw and exe
 for <a href="https://en.wikipedia.org/wiki/Shoulder_surfing_(computer_security)">Shoulder Surfing</a> sessions.
 The program saves the pictures captured by the webcam in the user profile folder. </BR>
 To avoid overwriting existing images, each new image is saved with an incremental name. The path and name of the</BR>
-images can be easily set in the code. I purposely avoided the use of code checks, to avoid the output of error prompts,</BR>
-this is to avoid creating suspicion in case the program, for some reason, fails.
+images can be easily set in the code. I purposely avoided the use of code checks, to avoid the output of error</BR>
+prompts, this is to avoid creating suspicion in case the program, for some reason, fails.
 
 </BR>
 
