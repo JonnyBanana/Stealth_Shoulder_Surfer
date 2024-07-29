@@ -22,7 +22,7 @@ this is to avoid creating suspicion in case the program, for some reason, fails.
 
 </BR>
 
-Guide Here:</BR>
+<b>Guide Here:</b></BR>
 
 https://phoenixnap.com/kb/add-python-to-path
 
