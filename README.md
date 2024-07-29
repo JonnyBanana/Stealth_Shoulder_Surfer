@@ -18,6 +18,18 @@ this is to avoid creating suspicion in case the program, for some reason, fails.
 
 </BR>
 
+<b>IMPORTANT NOTE:</b> The .pyw file may need to add the Python binary to PATH in order to be launched correctly.  
+
+</BR>
+
+Guide Here:
+
+</BR>
+
+https://phoenixnap.com/kb/add-python-to-path
+
+</BR>
+
 Tested on: <b>Win10 Home</b> </BR>
 Ver: <b>22H2</b> </BR>
 Build: <b>19045.4651</b>
