@@ -103,9 +103,7 @@ If you want to compile the script yourself, it is possible to do so with the lib
 </BR>
 
 <h5>To install the library:</h5>
-
 </BR> 
-
 ```pip install pyinstaller```
 
 </BR>
