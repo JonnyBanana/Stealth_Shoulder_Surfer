@@ -193,7 +193,7 @@ the led, as explained in the “Add More Stealth” section.
 </BR>
 
 
-<h2>Stealth Shoulder Surfer #3 (Multi Shot Version)</h2>
+<h2>Stealth Shoulder Surfer #3 (Multishot Version)</h2>
 
 </BR>
 
