@@ -186,7 +186,7 @@ Happy Shoulder Surfing to All!
 
 </BR>
 
-See on Youtube Here:
+Click the cat
 
 </BR>
 
